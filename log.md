@@ -9,7 +9,7 @@
 
 **Link(s) to work**: [Free Code Camp TwitchTV JSON API Project (CodePen)] (http://codepen.io/bakong7/pen/qqOggm)
 
-### Day 1: January 4th, 2016
+### Day 2: January 4th, 2016
 
 **Today's Progress**: Attempted to dispaly JSON data in the UI.
 
