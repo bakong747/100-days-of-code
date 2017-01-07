@@ -24,3 +24,11 @@
 **Thoughts**: Slowly but surely, progress is being made and the correct data will be displayed in the correct spots.
 
 **Link(s) to work**: [Free Code Camp TwitchTV JSON API Project (CodePen)] (http://codepen.io/bakong7/pen/qqOggm)
+
+### Day 4: January 6th, 2016
+
+**Today's Progress**: Continue work on formatting JSON data into HTML table.
+
+**Thoughts**: Not as productive as I would have liked.
+
+**Link(s) to work**: [Free Code Camp TwitchTV JSON API Project (CodePen)] (http://codepen.io/bakong7/pen/qqOggm)
