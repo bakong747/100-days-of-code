@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 3rd, 2016
+### Day 1: January 3rd, 2017
 #### A four octothorp, or hashtag denoted line
 
 **Today's Progress**: Perform a successful API call using $.getJSON.
@@ -9,7 +9,7 @@
 
 **Link(s) to work**: [Free Code Camp TwitchTV JSON API Project (CodePen)] (http://codepen.io/bakong7/pen/qqOggm)
 
-### Day 2: January 4th, 2016
+### Day 2: January 4th, 2017
 
 **Today's Progress**: Attempted to dispaly JSON data in the UI.
 
@@ -17,7 +17,7 @@
 
 **Link(s) to work**: [Free Code Camp TwitchTV JSON API Project (CodePen)] (http://codepen.io/bakong7/pen/qqOggm)
 
-### Day 3: January 5th, 2016
+### Day 3: January 5th, 2017
 
 **Today's Progress**: Some headway on formatting retrieved JSON data into HTML.
 
@@ -25,7 +25,7 @@
 
 **Link(s) to work**: [Free Code Camp TwitchTV JSON API Project (CodePen)] (http://codepen.io/bakong7/pen/qqOggm)
 
-### Day 4: January 6th, 2016
+### Day 4: January 6th, 2017
 
 **Today's Progress**: Continue work on formatting JSON data into HTML table.
 
@@ -33,7 +33,7 @@
 
 **Link(s) to work**: [Free Code Camp TwitchTV JSON API Project (CodePen)] (http://codepen.io/bakong7/pen/qqOggm)
 
-### Day 5: January 7th, 2016
+### Day 5: January 7th, 2017
 
 **Today's Progress**: Nice breakthrough on using $.getJSON and creating an HTML table (not finished, however)
 
@@ -41,7 +41,7 @@
 
 **Link(s) to work**: [Free Code Camp TwitchTV JSON API Project (CodePen)] (http://codepen.io/bakong7/pen/qqOggm)
 
-### Day 6: January 8th, 2016
+### Day 6: January 8th, 2017
 
 **Today's Progress**: Fixed race issue => wrapped $.getJSON stuff in a $(document).ready(function()) function.
 
