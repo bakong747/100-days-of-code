@@ -32,3 +32,11 @@
 **Thoughts**: Not as productive as I would have liked.
 
 **Link(s) to work**: [Free Code Camp TwitchTV JSON API Project (CodePen)] (http://codepen.io/bakong7/pen/qqOggm)
+
+### Day 5: January 7th, 2016
+
+**Today's Progress**: Nice breakthrough on using $.getJSON and creating an HTML table (not finished, however)
+
+**Thoughts**: Putting the $.getJSON() method invocation inside an IIFE which is itself inside a for loop is causing a race problem i.e. each one api call in a different, later iteration is somehow finishing before a previous iteration's api call.
+
+**Link(s) to work**: [Free Code Camp TwitchTV JSON API Project (CodePen)] (http://codepen.io/bakong7/pen/qqOggm)
