@@ -40,3 +40,11 @@
 **Thoughts**: Putting the $.getJSON() method invocation inside an IIFE which is itself inside a for loop is causing a race problem i.e.  each api call is finishing in an undeterministic way (maybe that's fine due to the live, dynamic nature of twitch?).
 
 **Link(s) to work**: [Free Code Camp TwitchTV JSON API Project (CodePen)] (http://codepen.io/bakong7/pen/qqOggm)
+
+### Day 6: January 8th, 2016
+
+**Today's Progress**: Fixed race issue => wrapped $.getJSON stuff in a $(document).ready(function()) function.
+
+**Thoughts**: Making steady progress, kind of feeling like I'm getting to the heart of this. Hopefully be done in 1-2 more sessions.
+
+**Link(s) to work**: [Free Code Camp TwitchTV JSON API Project (CodePen)] (http://codepen.io/bakong7/pen/qqOggm)
