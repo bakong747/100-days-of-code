@@ -48,3 +48,11 @@
 **Thoughts**: Making steady progress, kind of feeling like I'm getting to the heart of this. Hopefully be done in 1-2 more sessions.
 
 **Link(s) to work**: [Free Code Camp TwitchTV JSON API Project (CodePen)] (http://codepen.io/bakong7/pen/qqOggm)
+
+### Day 7: January 9th, 2017
+
+**Today's Progress**: Working on creating tabs that show online and offline users.
+
+**Thoughts**: Having issues with timing due to asynchronous AJAX calls.
+
+**Link(s) to work**: [Free Code Camp TwitchTV JSON API Project (CodePen)] (http://codepen.io/bakong7/pen/qqOggm)
