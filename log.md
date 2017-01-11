@@ -56,3 +56,11 @@
 **Thoughts**: Having issues with timing due to asynchronous AJAX calls.
 
 **Link(s) to work**: [Free Code Camp TwitchTV JSON API Project (CodePen)] (http://codepen.io/bakong7/pen/qqOggm)
+
+### Day 8: January 10th, 2017
+
+**Today's Progress**: Great progress on building the online and offline users table. Went back and polished up the tribute page and quote machine projects.
+
+**Thoughts**: 2hr session, got carried away coding (in a good way). Was a great feeling.
+
+**Link(s) to work**: [Free Code Camp TwitchTV JSON API Project (CodePen)] (http://codepen.io/bakong7/pen/qqOggm)
