@@ -55,7 +55,7 @@
 
 **Thoughts**: Having issues with timing due to asynchronous AJAX calls.
 
-**Link(s) to work**: [Free Code Camp TwitchTV JSON API Project (CodePen)] (http://codepen.io/bakong7/pen/qqOggm)
+**Link(s) to work**: [Free Code Camp TwitchTV JSON API Project (CodePen)] (https://codepen.io/bakong7/pen/WRryGV)
 
 ### Day 8: January 10th, 2017
 
@@ -63,4 +63,4 @@
 
 **Thoughts**: 2hr session, got carried away coding (in a good way). Was a great feeling.
 
-**Link(s) to work**: [Free Code Camp TwitchTV JSON API Project (CodePen)] (http://codepen.io/bakong7/pen/qqOggm)
+**Link(s) to work**: [Free Code Camp TwitchTV JSON API Project (CodePen)] (https://codepen.io/bakong7/pen/WRryGV)
