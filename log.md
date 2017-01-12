@@ -64,3 +64,11 @@
 **Thoughts**: 2hr session, got carried away coding (in a good way). Was a great feeling.
 
 **Link(s) to work**: [Free Code Camp TwitchTV JSON API Project (CodePen)] (https://codepen.io/bakong7/pen/WRryGV)
+
+### Day 9: January 11th, 2017
+
+**Today's Progress**: Finally finished first draft of wikipedia Viewer. Submitted it on Free Code Camp. Yay.
+
+**Thoughts**: Feeling like the coding is becoming more natural and more routine. I like it.
+
+**Link(s) to work**: [Free Code Camp TwitchTV JSON API Project (CodePen)] (https://codepen.io/bakong7/pen/WRryGV)
