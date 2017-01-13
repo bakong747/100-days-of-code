@@ -72,3 +72,9 @@
 **Thoughts**: Feeling like the coding is becoming more natural and more routine. I like it.
 
 **Link(s) to work**: [Free Code Camp TwitchTV JSON API Project (CodePen)] (https://codepen.io/bakong7/pen/WRryGV)
+
+### Day 10: January 12th, 2017
+
+**Today's Progress**: Reading up on Angular 2 vs. React in prepartion for the next projects.
+
+**Thoughts**: Will try to learn as much React in the next 3 days to be able to start building the rest of the projects in the front-end developer section using React.
