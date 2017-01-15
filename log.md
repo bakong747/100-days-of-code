@@ -79,10 +79,18 @@
 
 **Thoughts**: Will try to learn as much React in the next 3 days to be able to start building the rest of the projects in the front-end developer section using React.
 
-### Day 11: January 14th, 2017
+### Day 11: January 13th, 2017
 
 **Today's Progress**: More practice with React.
 
 **Thoughts**: Component names must be capitalized. Otherwise, it will not work as expected. 3 CDN downloads in the HTML file.
 
 **Link(s) to work**: none
+
+### Day 11: January 14th, 2017
+
+**Today's Progress**: More practice with React. Starting the Javascript Calculator project on Free Code Camp.
+
+**Thoughts**: Still want to learn more React and Flux architecture and possibly Redux.
+
+**Link(s) to work**: http://codepen.io/bakong7/pen/pREvyW
