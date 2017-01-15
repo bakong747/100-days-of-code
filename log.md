@@ -87,7 +87,7 @@
 
 **Link(s) to work**: none
 
-### Day 11: January 14th, 2017
+### Day 12: January 14th, 2017
 
 **Today's Progress**: More practice with React. Starting the Javascript Calculator project on Free Code Camp.
 
