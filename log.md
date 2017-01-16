@@ -67,7 +67,7 @@
 
 ### Day 9: January 11th, 2017
 
-**Today's Progress**: Finally finished first draft of wikipedia Viewer. Submitted it on Free Code Camp. Yay.
+**Today's Progress**: Finally finished first draft of TwitchTV JSON API project. Submitted it on Free Code Camp. Yay.
 
 **Thoughts**: Feeling like the coding is becoming more natural and more routine. I like it.
 
