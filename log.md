@@ -94,3 +94,11 @@
 **Thoughts**: Still want to learn more React and Flux architecture and possibly Redux.
 
 **Link(s) to work**: http://codepen.io/bakong7/pen/pREvyW
+
+### Day 13: January 15th, 2017
+
+**Today's Progress**: Went through very helpful [React tutorial] (http://buildwithreact.com/). Made some progress creating buttons of the calculator.
+
+**Thoughts**: Should read more about flux architecture. Component aspect seems very nice.
+
+**Link(s) to work**: http://codepen.io/bakong7/pen/pREvyW
