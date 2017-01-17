@@ -26,6 +26,9 @@
 2. ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/) - available online (free) & as a paperback
 3. "Mastering JavaScript" by Ved Antani
 
+### React
+1. http://buildwithreact.com/
+
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
