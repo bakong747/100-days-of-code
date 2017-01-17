@@ -102,3 +102,11 @@
 **Thoughts**: Should read more about flux architecture. Component aspect seems very nice.
 
 **Link(s) to work**: http://codepen.io/bakong7/pen/pREvyW
+
+### Day 14: January 16th, 2017
+
+**Today's Progress**: Attempted to do slightly more complex work i.e. get a display to show all the buttons that get pressed. Stalled on progress.
+
+**Thoughts**: More research and trial-and-error required.
+
+**Link(s) to work**: http://codepen.io/bakong7/pen/pREvyW
