@@ -110,3 +110,11 @@
 **Thoughts**: More research and trial-and-error required.
 
 **Link(s) to work**: http://codepen.io/bakong7/pen/pREvyW
+
+### Day 15: January 17th, 2017
+
+**Today's Progress**: More very helpful React reading on state (https://facebook.github.io/react/docs/state-and-lifecycle.html). Finally able to get the display component to read the output of the buttons that get pressed. Great success!
+
+**Thoughts**: Glad I stuck with it 'till it worked. Very satisfying feeling.
+
+**Link(s) to work**: http://codepen.io/bakong7/pen/pREvyW
