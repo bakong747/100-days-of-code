@@ -118,3 +118,11 @@
 **Thoughts**: Glad I stuck with it 'till it worked. Very satisfying feeling.
 
 **Link(s) to work**: http://codepen.io/bakong7/pen/pREvyW
+
+### Day 16: January 18th, 2017
+
+**Today's Progress**: Disgraceful.
+
+**Thoughts**: "C'mon, mah!"
+
+**Link(s) to work**: http://codepen.io/bakong7/pen/pREvyW
