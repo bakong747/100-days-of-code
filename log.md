@@ -126,3 +126,11 @@
 **Thoughts**: "C'mon, mah!"
 
 **Link(s) to work**: http://codepen.io/bakong7/pen/pREvyW
+
+### Day 17: January 19th, 2017
+
+**Today's Progress**: Work on parsing the final formula in the calculator app. Good practice with regular expressions.
+
+**Thoughts**: Many different ways of approaching this problem.
+
+**Link(s) to work**: http://codepen.io/bakong7/pen/pREvyW
