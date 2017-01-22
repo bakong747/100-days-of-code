@@ -134,3 +134,25 @@
 **Thoughts**: Many different ways of approaching this problem.
 
 **Link(s) to work**: http://codepen.io/bakong7/pen/pREvyW
+
+### Day 18: January 20th, 2017
+
+**Today's Progress**: NONE
+
+**Thoughts**: MISSED
+
+**Link(s) to work**: http://codepen.io/bakong7/pen/pREvyW
+
+### Day 19: January 21st, 2017
+
+**Today's Progress**: NONE
+
+**Thoughts**: MISSED
+
+### Day 20: January 22nd, 2017
+
+**Today's Progress**: Making up for past 3 days by coding extra hours. Progress on creating regex to properly parse the user input from the calculator.
+
+**Thoughts**: Getting through analysis paralysis best done by picking a path and pursuing it.
+
+**Link(s) to work**: http://codepen.io/bakong7/pen/pREvyW
