@@ -156,3 +156,11 @@
 **Thoughts**: Getting through analysis paralysis best done by picking a path and pursuing it.
 
 **Link(s) to work**: http://codepen.io/bakong7/pen/pREvyW
+
+### Day 21: January 23nd, 2017
+
+**Today's Progress**: Good progress on handling the updating of the UI when user hits the equals button.
+
+**Thoughts**: Feeling noticeably more confident working with code.
+
+**Link(s) to work**: http://codepen.io/bakong7/pen/pREvyW
