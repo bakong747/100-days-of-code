@@ -164,3 +164,11 @@
 **Thoughts**: Feeling noticeably more confident working with code.
 
 **Link(s) to work**: http://codepen.io/bakong7/pen/pREvyW
+
+### Day 22: January 24th, 2017
+
+**Today's Progress**: Figured out algorithm to calculate multiple items in the expression.
+
+**Thoughts**: Feel like the architecture leaves much to be desired. Violoating Don't Repeat Yourself (DRY) principle pretty hard.
+
+**Link(s) to work**: http://codepen.io/bakong7/pen/pREvyW
