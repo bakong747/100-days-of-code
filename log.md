@@ -172,3 +172,11 @@
 **Thoughts**: Feel like the architecture leaves much to be desired. Violoating Don't Repeat Yourself (DRY) principle pretty hard.
 
 **Link(s) to work**: http://codepen.io/bakong7/pen/pREvyW
+
+### Day 23: January 25th, 2017
+
+**Today's Progress**: Added clear button and reordered buttons.
+
+**Thoughts**: Should be complete by 1/27
+
+**Link(s) to work**: http://codepen.io/bakong7/pen/pREvyW
