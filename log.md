@@ -180,3 +180,18 @@
 **Thoughts**: Should be complete by 1/27
 
 **Link(s) to work**: http://codepen.io/bakong7/pen/pREvyW
+
+### Day 24: January 26th, 2017
+
+**Today's Progress**: CSS styling.
+
+**Thoughts**: A bit overwhelming
+**Link(s) to work**: http://codepen.io/bakong7/pen/pREvyW
+
+### Day 25: January 27th, 2017
+
+**Today's Progress**: Finished Inventory Update algorithm
+
+**Thoughts**: Needed break from calculator project.
+
+**Link(s) to work**: http://codepen.io/bakong7/pen/pREvyW
