@@ -195,3 +195,19 @@
 **Thoughts**: Needed break from calculator project.
 
 **Link(s) to work**: http://codepen.io/bakong7/pen/pREvyW
+
+### Day 26: January 28th, 2017
+
+**Today's Progress**: More algorithms.
+
+**Thoughts**: -
+
+**Link(s) to work**: http://codepen.io/bakong7/pen/pREvyW
+
+### Day 27: January 29th, 2017
+
+**Today's Progress**: More algorithms
+
+**Thoughts**: -
+
+**Link(s) to work**: http://codepen.io/bakong7/pen/pREvyW
