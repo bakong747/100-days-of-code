@@ -211,3 +211,11 @@
 **Thoughts**: -
 
 **Link(s) to work**: http://codepen.io/bakong7/pen/pREvyW
+
+### Day 28: January 30th, 2017
+
+**Today's Progress**: MISSED
+
+**Thoughts**: Bad Brian.
+
+**Link(s) to work**: http://codepen.io/bakong7/pen/pREvyW
