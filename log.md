@@ -219,3 +219,19 @@
 **Thoughts**: Bad Brian.
 
 **Link(s) to work**: http://codepen.io/bakong7/pen/pREvyW
+
+### Day 29: January 31th, 2017
+
+**Today's Progress**: Styling to javascript calculator.
+
+**Thoughts**: A little CSS and bootstrap go a long way.
+
+**Link(s) to work**: http://codepen.io/bakong7/pen/pREvyW
+
+### Day 39: February 1st, 2017
+
+**Today's Progress**: Finally finished 1st draft of calculator!
+
+**Thoughts**: Will try to  go back and add a bit more functionality to the buttons and more styling.
+
+**Link(s) to work**: http://codepen.io/bakong7/pen/pREvyW
