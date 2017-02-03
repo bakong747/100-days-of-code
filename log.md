@@ -228,10 +228,18 @@
 
 **Link(s) to work**: http://codepen.io/bakong7/pen/pREvyW
 
-### Day 39: February 1st, 2017
+### Day 30: February 1st, 2017
 
 **Today's Progress**: Finally finished 1st draft of calculator!
 
 **Thoughts**: Will try to  go back and add a bit more functionality to the buttons and more styling.
 
 **Link(s) to work**: http://codepen.io/bakong7/pen/pREvyW
+
+### Day 31: February 2nd, 2017
+
+**Today's Progress**: Beginning work on pomodoro clock.
+
+**Thoughts**: Will try to refine and improve React JS skills.
+
+**Link(s) to work**: N/A
