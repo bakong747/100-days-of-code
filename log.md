@@ -243,3 +243,19 @@
 **Thoughts**: Will try to refine and improve React JS skills.
 
 **Link(s) to work**: N/A
+
+### Day 31: February 3rd, 2017
+
+**Today's Progress**: Alrogrith exploration
+
+**Thoughts**: Lots of new ideas.
+
+**Link(s) to work**: N/A
+
+### Day 32: February 4th, 2017
+
+**Today's Progress**: Beginning of Pomodoro clock.
+
+**Thoughts**: Happy to be building it using React.
+
+**Link(s) to work**: http://codepen.io/bakong7/pen/bgKWvB
