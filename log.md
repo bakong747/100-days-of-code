@@ -259,3 +259,11 @@
 **Thoughts**: Happy to be building it using React.
 
 **Link(s) to work**: http://codepen.io/bakong7/pen/bgKWvB
+
+### Day 33: February 5th, 2017
+
+**Today's Progress**: Added a button.
+
+**Thoughts**: Trying to figure out how to start the timer after the button has been pressed.
+
+**Link(s) to work**: http://codepen.io/bakong7/pen/bgKWvB
