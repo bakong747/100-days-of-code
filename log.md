@@ -244,7 +244,7 @@
 
 **Link(s) to work**: N/A
 
-### Day 31: February 3rd, 2017
+### Day 32: February 3rd, 2017
 
 **Today's Progress**: Alrogrith exploration
 
@@ -252,7 +252,7 @@
 
 **Link(s) to work**: N/A
 
-### Day 32: February 4th, 2017
+### Day 33: February 4th, 2017
 
 **Today's Progress**: Beginning of Pomodoro clock.
 
@@ -260,7 +260,7 @@
 
 **Link(s) to work**: http://codepen.io/bakong7/pen/bgKWvB
 
-### Day 33: February 5th, 2017
+### Day 34: February 5th, 2017
 
 **Today's Progress**: Added a button.
 
