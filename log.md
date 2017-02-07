@@ -267,3 +267,11 @@
 **Thoughts**: Trying to figure out how to start the timer after the button has been pressed.
 
 **Link(s) to work**: http://codepen.io/bakong7/pen/bgKWvB
+
+### Day 35: February 6th, 2017
+
+**Today's Progress**: Added start and pause functionality to app.
+
+**Thoughts**: Good progress.
+
+**Link(s) to work**: http://codepen.io/bakong7/pen/bgKWvB
