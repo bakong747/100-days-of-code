@@ -275,3 +275,11 @@
 **Thoughts**: Good progress.
 
 **Link(s) to work**: http://codepen.io/bakong7/pen/bgKWvB
+
+### Day 36: February 7th, 2017
+
+**Today's Progress**: Added increment and decrement buttons. Read about Javascript modules.
+
+**Thoughts**: Good progress.
+
+**Link(s) to work**: http://codepen.io/bakong7/pen/bgKWvB
