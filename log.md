@@ -283,3 +283,11 @@
 **Thoughts**: Good progress.
 
 **Link(s) to work**: http://codepen.io/bakong7/pen/bgKWvB
+
+### Day 37: February 8th, 2017
+
+**Today's Progress**: Added funcitonality for timer to stop when time is equal to 0. Working on reset button. Effective use of shouldComponentUpdate.
+
+**Thoughts**: Finish reset button.
+
+**Link(s) to work**: http://codepen.io/bakong7/pen/bgKWvB
