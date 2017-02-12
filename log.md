@@ -291,3 +291,35 @@
 **Thoughts**: Finish reset button.
 
 **Link(s) to work**: http://codepen.io/bakong7/pen/bgKWvB
+
+### Day 38: February 9th, 2017
+
+**Today's Progress**: Missed
+
+**Thoughts**: Missed
+
+**Link(s) to work**: http://codepen.io/bakong7/pen/bgKWvB
+
+### Day 39: February 10th, 2017
+
+**Today's Progress**: Missed
+
+**Thoughts**: Missed
+
+**Link(s) to work**: http://codepen.io/bakong7/pen/bgKWvB
+
+### Day 40: February 11th, 2017
+
+**Today's Progress**: Missed
+
+**Thoughts**: Missed
+
+**Link(s) to work**: http://codepen.io/bakong7/pen/bgKWvB
+
+### Day 41: February12th, 2017
+
+**Today's Progress**: Disabling start button. Added reset button.
+
+**Thoughts**: The "life-cycle" of the timer is leading me to think a re-design is necessary.
+
+**Link(s) to work**: http://codepen.io/bakong7/pen/bgKWvB
