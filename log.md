@@ -316,10 +316,18 @@
 
 **Link(s) to work**: http://codepen.io/bakong7/pen/bgKWvB
 
-### Day 41: February12th, 2017
+### Day 41: February 12th, 2017
 
 **Today's Progress**: Disabling start button. Added reset button.
 
 **Thoughts**: The "life-cycle" of the timer is leading me to think a re-design is necessary.
+
+**Link(s) to work**: http://codepen.io/bakong7/pen/bgKWvB
+
+### Day 42: February 13th, 2017
+
+**Today's Progress**: Attempted styling.
+
+**Thoughts**: Need to improve CSS skills.
 
 **Link(s) to work**: http://codepen.io/bakong7/pen/bgKWvB
