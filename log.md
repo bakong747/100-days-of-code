@@ -331,3 +331,11 @@
 **Thoughts**: Need to improve CSS skills.
 
 **Link(s) to work**: http://codepen.io/bakong7/pen/bgKWvB
+
+### Day 43: February 14th, 2017
+
+**Today's Progress**: Trying to redesign timer life cycle.
+
+**Thoughts**: Rough day.
+
+**Link(s) to work**: http://codepen.io/bakong7/pen/bgKWvB
