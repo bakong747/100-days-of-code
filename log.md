@@ -339,3 +339,19 @@
 **Thoughts**: Rough day.
 
 **Link(s) to work**: http://codepen.io/bakong7/pen/bgKWvB
+
+### Day 44: February 15th, 2017
+
+**Today's Progress**: Missed.
+
+**Thoughts**: :(
+
+**Link(s) to work**: http://codepen.io/bakong7/pen/bgKWvB
+
+### Day 45: February 16th, 2017
+
+**Today's Progress**: More work on timer logic.
+
+**Thoughts**: Encountering more obstacles than predicted. Getting the button to update properly based on state is current objective.
+
+**Link(s) to work**: http://codepen.io/bakong7/pen/bgKWvB
