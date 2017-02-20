@@ -355,3 +355,27 @@
 **Thoughts**: Encountering more obstacles than predicted. Getting the button to update properly based on state is current objective.
 
 **Link(s) to work**: http://codepen.io/bakong7/pen/bgKWvB
+
+### Day 46: February 17th, 2017
+
+**Today's Progress**: Helped tutor on Javascript.
+
+**Thoughts**: Working through algorithms.
+
+**Link(s) to work**: -
+
+### Day 47: February 18th, 2017
+
+**Today's Progress**: MISSED
+
+**Thoughts**: :<
+
+**Link(s) to work**: http://codepen.io/bakong7/pen/bgKWvB
+
+### Day 48: February 18th, 2017
+
+**Today's Progress**: Not much.
+
+**Thoughts**: Struggling with timer logic.
+
+**Link(s) to work**: http://codepen.io/bakong7/pen/bgKWvB
