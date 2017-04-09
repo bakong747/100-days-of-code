@@ -379,3 +379,18 @@
 **Thoughts**: Struggling with timer logic.
 
 **Link(s) to work**: http://codepen.io/bakong7/pen/bgKWvB
+
+### Day 97??: April 8th, 2017
+
+**Today's Progress**: More work on Pomodoro clock. R programming tutorial (Titanic challenge on Kaggle)
+
+**Thoughts**: Long lull. The dark ages are over.
+
+**Link(s) to work**: http://codepen.io/bakong7/pen/bgKWvB
+
+
+**Today's Progress**: Not much.
+
+**Thoughts**: Struggling with timer logic.
+
+**Link(s) to work**: http://codepen.io/bakong7/pen/bgKWvB
